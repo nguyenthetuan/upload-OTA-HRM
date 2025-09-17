@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.4",
   "android": {
     "bundleUrl": "https://nguyenthetuan.github.io/upload-OTA-HRM/dist/index.android.bundle",
     "assetsUrl": "https://nguyenthetuan.github.io/upload-OTA-HRM/dist/assets/"
