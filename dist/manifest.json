@@ -1,9 +1,11 @@
 {
   "version": "1.0.3",
   "android": {
-    "bundleUrl": "https://nguyenthetuan.github.io/my-hotupdate-repo/dist/index.android.bundle"
+    "bundleUrl": "https://nguyenthetuan.github.io/upload-OTA-HRM/dist/index.android.bundle",
+    "assetsUrl": "https://nguyenthetuan.github.io/upload-OTA-HRM/dist/assets/"
   },
   "ios": {
-    "bundleUrl": "https://nguyenthetuan.github.io/my-hotupdate-repo/dist/index.ios.bundle"
+    "bundleUrl": "https://nguyenthetuan.github.io/upload-OTA-HRM/dist/index.ios.bundle",
+    "assetsUrl": "https://nguyenthetuan.github.io/upload-OTA-HRM/dist/assets/"
   }
 }
