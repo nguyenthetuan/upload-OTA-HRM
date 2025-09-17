@@ -1,0 +1,9 @@
+{
+  "version": "1.0.3",
+  "android": {
+    "bundleUrl": "https://nguyenthetuan.github.io/my-hotupdate-repo/dist/index.android.bundle"
+  },
+  "ios": {
+    "bundleUrl": "https://nguyenthetuan.github.io/my-hotupdate-repo/dist/index.ios.bundle"
+  }
+}
